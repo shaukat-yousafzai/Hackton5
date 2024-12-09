@@ -8,7 +8,13 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        greatvibes: ['GreatVibes', 'cursive'], // Add a fallback if needed
+        inter: ['Inter', 'sans-serif'],
+      },
+
       colors: {
+        prColor: "#FF9F0D",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
