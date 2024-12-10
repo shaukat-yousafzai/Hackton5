@@ -3,6 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import Otherpage from "@/components/Otherpage";
 import OtherHero from "@/components/OtherHero";
+import Footer from "@/components/Footer";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -33,6 +34,7 @@ export default function RootLayout({
         <Otherpage/>
         <OtherHero/>
         {children}
+        <Footer/>
       </body>
     </html>
   );
