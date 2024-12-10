@@ -8,7 +8,7 @@ import Link from 'next/link'
 
 const Footer = () => {
   return (
-    <div className='mt-24 bg-black'>
+    <div className='mt-24 bg-black'> 
      <Container>
         <div>
             <div>
