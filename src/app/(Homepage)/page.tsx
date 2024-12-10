@@ -8,13 +8,16 @@ import React from 'react'
 
 const HomePage = () => {
   return (
-    <Container>
+    <div className='overflow-hidden'>
+ <Container>
       <Herohome/>
       
       <AboutHome/>
       <HomethirdHero/>
       <WHyHome/>
     </Container>
+    </div>
+   
   )
 }
 
