@@ -364,7 +364,7 @@ eligendi suscipit reprehenderit atque
     <div className='flex justify-between space-x-32'>
     <p className='text-xl font-bold '>Chicken </p>
     <p className='text-lg font-medium '>20$</p>
-       
+         
     </div>
   </div>
 

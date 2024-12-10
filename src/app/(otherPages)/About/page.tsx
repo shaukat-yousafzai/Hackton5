@@ -4,7 +4,7 @@ import Container from '@/components/Container'
 import Image from 'next/image'
 import { FaCookieBite, FaWineGlassAlt } from 'react-icons/fa'
 import { LiaHamburgerSolid } from 'react-icons/lia'
-
+         
 import KingPara from '@/components/KingPara'
 
 import { PiCoffee, PiPerson, PiStudent } from 'react-icons/pi'
