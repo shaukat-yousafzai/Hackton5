@@ -8,7 +8,7 @@ import { LiaHamburgerSolid } from 'react-icons/lia'
 import KingPara from '@/components/KingPara'
 
 import { PiCoffee, PiPerson, PiStudent } from 'react-icons/pi'
-
+  
 const Aboutpage = () => {
   return (
     <div className='flex flex-col mt-11'>
