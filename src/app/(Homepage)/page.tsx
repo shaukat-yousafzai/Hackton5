@@ -1,4 +1,5 @@
 import AboutHome from '@/components/AboutHome'
+import Container from '@/components/Container'
 import Herohome from '@/components/Herohome'
 import HomethirdHero from '@/components/homethirdHero'
 
@@ -7,13 +8,13 @@ import React from 'react'
 
 const HomePage = () => {
   return (
-    <div>
+    <Container>
       <Herohome/>
       
       <AboutHome/>
       <HomethirdHero/>
       <WHyHome/>
-    </div>
+    </Container>
   )
 }
 
