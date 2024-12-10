@@ -14,7 +14,7 @@ const CardComponent = () => {
         Question Look Here
       </h1>
       <p className="text-center">
-        this is is paragraph i don't know what i am writing plaese understand my i don't know what i am writing plaese understand my 
+        this is is paragraph i dont know what i am writing plaese understand my i dont know what i am writing plaese understand my 
       </p>
     </div>
     <div className="grid grid-cols-2 gap-4">
